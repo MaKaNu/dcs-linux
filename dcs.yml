@@ -1,0 +1,25 @@
+[Installed]
+version = 2.9.0.47168
+wine = wine-ge-8-20-xx86_64
+
+[Winetricks]
+system = true
+
+[Graphics]
+DXVK = true
+DXVK_version = 2.3
+VKD3D = true
+VKD3D_version = 2.10
+D3D_Extras = true
+D3D_Extras_version = 2
+DXVK_NVAPI = true
+DXVK_NVAPI_version = 0.6.4
+dgvoodoo2 = false
+dgvoodoo2_version = 2.8
+
+[Options]
+Esync = true
+Fsync = true
+AMD_FSR = true
+BEAC = true
+EAC = true
