@@ -1,6 +1,1 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: [DCS on Linux]
-description: [My personal DCS configuration on Arch linux with wayland]
+remote_theme: jekyll-theme-hacker
